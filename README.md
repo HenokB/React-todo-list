@@ -10,6 +10,7 @@ npm run build
 
 npm run deploy
 
-See the demo here: https://HenokB.github.io/React-todo-list
+See the demo here: 
+[See the demo here](https://HenokB./React-todo-list.io)
 
 
