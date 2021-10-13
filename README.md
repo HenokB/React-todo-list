@@ -1,6 +1,6 @@
 # React-todo-list
 
-This is a simple To Do Application in react. It is a very easy quick application to do.
+This is a simple To Do List Application made with reactjs.
 
 
 ## Commands used to publish react files in github:
